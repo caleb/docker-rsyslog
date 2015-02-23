@@ -1,4 +1,4 @@
-FROM alpinelinux/base
+FROM docker.rodeopartners.com/alpine
 
 MAINTAINER Caleb Land <caleb@land.fm>
 
