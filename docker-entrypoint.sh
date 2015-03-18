@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [ -n "${SOCKET}" ]; then
   export SOCKET__DEFAULT__="${SOCKET}"
